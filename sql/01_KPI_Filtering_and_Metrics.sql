@@ -1,5 +1,5 @@
 -- #########################################################
--- KPI Filtering and Date-Based Metrics for Business Insight
+-- Business KPIs and Foundational SQL Filters for Decision Making
 -- #########################################################
 
 -- =========================================================
