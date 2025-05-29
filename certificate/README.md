@@ -8,4 +8,4 @@
 
 $~$
 
-![Exploratory Data Analysis in SQL](https://github.com/VibeHarboe/Exploratory-Data-Analysis-in-SQL/blob/ec2ca772aa0d7d040e032cca6569ebd8be341725/visuals/Exploratory%20Data%20Analysis%20in%20SQL.png "Data-Driven Decision Making in SQL")
+![Exploratory Data Analysis in SQL](https://github.com/VibeHarboe/Data-Driven-Decision-Making-in-SQL/blob/a20defdfc759ccc781e8162077ed8c29782fc141/visuals/Data-Driven%20Decision%20Making%20in%20SQL.png "Data-Driven Decision Making in SQL")
