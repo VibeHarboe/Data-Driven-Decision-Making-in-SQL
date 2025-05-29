@@ -5,6 +5,7 @@
 -- =========================================================
 -- SECTION 1: Filter rentals on specific dates and ranges
 -- =========================================================
+
 -- Rentals on a specific date
 SELECT *
 FROM renting
@@ -23,6 +24,7 @@ ORDER BY date_renting DESC;
 -- =========================================================
 -- SECTION 2: Movie selection and filtering
 -- =========================================================
+
 -- Movies that are not classified as 'Drama'
 SELECT *
 FROM movies
@@ -41,6 +43,7 @@ ORDER BY renting_price ASC;
 -- =========================================================
 -- SECTION 3: Rentals with ratings in a specific year
 -- =========================================================
+
 SELECT *
 FROM renting
 WHERE date_renting BETWEEN '2018-01-01' AND '2018-12-31'
@@ -49,6 +52,7 @@ WHERE date_renting BETWEEN '2018-01-01' AND '2018-12-31'
 -- =========================================================
 -- SECTION 4: Customer segmentation and demographics
 -- =========================================================
+
 -- Customers born in the 1980s
 SELECT COUNT(*) AS customers_born_in_80s
 FROM customers
@@ -66,6 +70,7 @@ FROM customers;
 -- =========================================================
 -- SECTION 5: Summary statistics for specific movie ratings
 -- =========================================================
+
 SELECT 
   MIN(rating) AS min_rating, 
   MAX(rating) AS max_rating, 
@@ -77,6 +82,7 @@ WHERE movie_id = 25;
 -- =========================================================
 -- SECTION 6: Aggregated rental KPIs since 2019
 -- =========================================================
+
 SELECT 
   COUNT(*) AS number_renting,
   AVG(rating) AS average_rating,
