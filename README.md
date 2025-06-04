@@ -1,7 +1,6 @@
-# Data Driven Decision Making in SQL
-Advanced SQL project focused on data-driven decision making. Includes subqueries, window functions, OLAP, and predictive analysis using PostgreSQL.
-
 # Data-Driven Decision Making in SQL 🚀
+
+Advanced SQL project focused on data-driven decision making. Includes subqueries, window functions, OLAP, and predictive analysis using PostgreSQL.
 
 Welcome to the **Data-Driven Decision Making in SQL** project repository! 📈 This project showcases advanced SQL techniques and analytical strategies used to support data-informed decisions. Built on the DataCamp course curriculum, the repository presents real-world business scenarios and technical solutions with PostgreSQL.
 
